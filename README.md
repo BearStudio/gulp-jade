@@ -35,4 +35,4 @@ Démarrer gulp en "watch" :
 
 ---
 Réalisé par **Thibault Barske**
-&copy;** BearStudio 2016**
+&copy; **BearStudio 2016**
