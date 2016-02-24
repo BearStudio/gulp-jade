@@ -33,6 +33,23 @@ Démarrer gulp en "watch" :
 
      gulp watch
 
+## Exemple d'architecture de fichiers
+
+    jade-data/
+    ├── bower.json
+    ├── gulpfile.js
+    ├── package.json
+    └── src
+        ├── data
+        │   └── settings.json
+        └── jade
+            ├── index.jade
+            └── layout
+                ├── footer.jade
+                ├── header.jade
+                └── head.jade
+
+
 ---
 Réalisé par **Thibault Barske**
 &copy; **BearStudio 2016**
